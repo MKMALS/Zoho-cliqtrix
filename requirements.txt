@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+httpx
+sqlalchemy
+alembic
+pydantic[email]
+python-multipart
+python-dotenv
+bcrypt
+twilio
+requests

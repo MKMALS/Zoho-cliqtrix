@@ -1,0 +1,30 @@
+# Ignore environment file (API keys)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folders
+env/
+venv/
+ENV/
+VENV/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build folders
+build/
+dist/
+*.egg-info/
